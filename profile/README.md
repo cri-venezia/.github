@@ -1,4 +1,4 @@
-<img style="display:block; align:center;" src="https://crive.b-cdn.net/wp-content/uploads/2024/09/h60-scuro-1.png" alt="CriVenezia" />
+<img style="display:block; align:center;" src="h60-scuro-1.webp" alt="CriVenezia" />
 
 
 Benvenuti nel profilo GitHub ufficiale del Comitato di Venezia della Croce Rossa Italiana.

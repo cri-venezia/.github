@@ -5,7 +5,7 @@ Benvenuti nel profilo GitHub ufficiale del Comitato di Venezia della Croce Rossa
 
 ## Chi Siamo
 
-Il Comitato di Venezia fa parte della Croce Rossa Italiana, la più grande organizzazione umanitaria del Paese. Operiamo sul territorio veneziano per fornire assistenza sanitaria, sociale e di emergenza alla comunità, guidati dai sette Principi Fondamentali del Movimento Internazionale di Croce Rossa e Mezzaluna Rossa: Umanità, Imparzialità, Neutralità, Indipendenza, Volontariato, Unità e Universalità.
+Il Comitato di Venezia fa parte della Croce Rossa Italiana, la più grande organizzazione umanitaria del Paese. Operiamo sul territorio veneziano per fornire assistenza sanitaria, sociale e di emergenza alla comunità, guidati dai sette Principi Fondamentali del Movimento Internazionale di Croce Rossa e Mezzaluna Rossa: **Umanità, Imparzialità, Neutralità, Indipendenza, Volontariato, Unità e Universalità**.
 
 ## Il Nostro Lavoro su GitHub
 
